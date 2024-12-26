@@ -14,6 +14,7 @@ class _PranavworkState extends State<Pranavwork> {
       appBar: AppBar(
         backgroundColor: Colors.red,
       ),
+       body: Column(children: [Text("My name is pranav")],),
     );
   }
 }
